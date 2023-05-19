@@ -1,0 +1,51 @@
+body {
+    background-color: aliceblue;
+}
+
+.profpic {
+    border-radius: 10%;
+}
+
+.aboutbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.row {
+    margin: 20px;
+}
+
+.footer {
+    color: gray;
+    margin-top: 50px;
+    font-size: small;
+}
+
+.contact-box {
+    margin: auto;
+line-height:normal;
+content: center;
+}
+
+.form {
+    margin-top: 30px;
+}
+
+.icons {
+margin-top: 10px;
+}
+
+.card-body {
+    margin-top: 10%;
+}
+
+#services {
+    padding: 7% 5%;
+    position: relative;
+    text-align: center;
+}
+
+.fonty {
+    padding-bottom: 1.5rem;
+}
